@@ -4,7 +4,6 @@
 ```json
 "Pagination":{
     "PageSize":5
-    //"PageSize":{Number of pages you want per fetched result}
 }
 ```
 
